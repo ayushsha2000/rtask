@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486155576858",
+    "project_id": "taskrbuy",
+    "storage_bucket": "taskrbuy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486155576858:android:022e99460c60590e1c13a3",
+        "android_client_info": {
+          "package_name": "com.example.taskrbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486155576858-i5phofd3n71bc62qg6vgf5m0eruo19k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taskrbuy",
+            "certificate_hash": "0644647464c8ee324d48ee8a75fa46818702ea84"
+          }
+        },
+        {
+          "client_id": "486155576858-fkdt7i5skn59k9n1e8l3bd32543bp7h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCneo2ZbGoqEmblTaFSk4DzWalWChTrgwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486155576858-fkdt7i5skn59k9n1e8l3bd32543bp7h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
